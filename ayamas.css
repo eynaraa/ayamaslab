@@ -1,0 +1,242 @@
+
+.border {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 1500px;
+	height: 800px;
+	box-sizing: content-box;
+}
+
+.header {
+	background-color: rgba(235, 28, 28, 0.928);
+	position: absolute;
+	top: 10px;
+	width: 1500px;
+	height: 60px;
+}
+
+.ayamaslogo {
+	position: absolute;
+	top: 10px;
+	left: 150px;
+}
+
+.navibar {
+	color: #FFF;
+	position: absolute;
+	top: 10px;
+	left: 850px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.dots {
+	position: absolute;
+	left: 1400px;
+	top: 18px;
+	width: 20px;
+	height: 20px;
+}
+
+
+.menu1 {
+    border-style: solid;
+    border-color:rgba(62, 76, 76, 0.115);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position:absolute;
+    top: 100px;
+    left: 380px;
+    
+}
+
+.menuOne {
+    text-align: center;
+    position: absolute;
+    top: 280px;
+    left: 370px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu2 {
+    border-style: solid;
+    border-color:rgba(62, 76, 76, 0.115);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position:absolute;
+    top: 100px;
+    left: 700px;
+}
+
+.menuTwo {
+    color:black;
+    position: absolute;
+    left: 680px;
+    font-family: 'Times New Roman', Times, serif;
+    top: 280px;
+    width: 341px;
+    
+}
+
+.menu3 {
+    border-style: solid;
+    border-color:rgba(62, 76, 76, 0.115);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position:absolute;
+    top: 100px;
+    left: 1020px;
+}
+
+.menuThree {
+    color:black;
+    position: absolute;
+    left: 1010px;
+    font-family: 'Times New Roman', Times, serif;
+    top: 280px;
+    width: 341px;
+}
+
+.menu4 {
+    border-style: solid;
+    border-color:rgba(62, 76, 76, 0.115);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position:absolute;
+    top: 350px;
+    left: 380px;
+}
+
+.menuFour {
+    text-align: center;
+    position: absolute;
+    top: 520px;
+    left: 370px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu5 {
+    border-style: solid;
+    border-color:rgba(62, 76, 76, 0.115);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position:absolute;
+    top: 350px;
+    left: 700px;
+}
+
+.menuFive {
+    text-align: center;
+    position: absolute;
+    top: 520px;
+    left: 630px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+}
+
+.menu6 {
+    border-style: solid;
+    border-color:rgba(62, 76, 76, 0.115);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position:absolute;
+    top: 350px;
+    left: 1020px;
+}
+
+.menuSix {
+    text-align: center;
+    position: absolute;
+    top: 520px;
+    left: 1020px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 160px;
+}
+.footerbase {
+    background-color: rgba(235, 28, 28, 0.928);
+    position: absolute;
+	top: 600px;
+	width: 1500px;
+	height: 200px;
+}
+
+.footer {
+    background-color:rgb(250, 250, 151);
+    position: absolute;
+	top: 5px;
+	width: 1500px;
+	height: 50px;
+}
+
+.foodpanda {
+    position: absolute;
+    left: 580px;
+}
+
+.grabfood {
+    position: absolute;
+    left: 800px;
+    top: -15px;
+}
+
+.footernavi {
+    position: absolute;
+    top: 80px;
+    left: 20px;
+    color:#FFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    
+}
+
+.ayamasbase {
+    position: absolute;
+    left: 1200px;
+    top: 5px;
+}
+
+.ref {
+    background: #cc3232;
+    border-style: dashed;
+    border-radius: 15px;
+    border-color: #FFF;
+    position: absolute;
+    width: 250px;
+    height: 85px;
+    top: 100px;
+    left: 1200px;
+    text-align: center;
+    color:#FFF;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+
+.facebook {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+
+.instagram {
+    position: absolute;
+    top: 32px;
+    left: 95px;
+}
+
+.youtube {
+    position: absolute;
+    top: 35px;
+    left: 165px;
+}
